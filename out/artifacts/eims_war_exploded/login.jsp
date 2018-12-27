@@ -11,7 +11,6 @@
     <title>企业信息管理系统————登录页面</title>
   </head>
   <body background="img/login.JPG">
-  <%--<h1>从入门到放弃！</h1>--%>
   <br><br><br><br><br><br>
   <br><br><br><br><br><br>
   <center>

@@ -9,9 +9,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>主页</title>
+    <title>企业信息管理系统————主页面</title>
 </head>
-<body>
-<h1>welcome admin !</h1>
-</body>
+<frameset rows="*" cols="200,*">
+    <frame src="left.jsp" name="left" scrolling="no">
+    <frameset rows="180,*" cols="*">
+        <frame src="top.jsp" name="top" scrolling="no">
+        <frame src="bottom.jsp" name="main" scrolling="no">
+    </frameset>
+</frameset>
 </html>
