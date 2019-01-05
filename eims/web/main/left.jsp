@@ -20,32 +20,32 @@
     </tr>
     <tr>
         <td>
-            <a href="http://localhost:8080/eims/clientManage/lookClient.jsp" target="main">客户管理</a>
+            <a href="http://localhost:8088/eims/clientManage/lookClient.jsp" target="main">客户管理</a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="http://localhost:8080/eims/contractManage/lookContract.jsp" target="main">合同管理</a>
+            <a href="http://localhost:8088/eims/contractManage/lookContract.jsp" target="main">合同管理</a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="http://localhost:8080/eims/CSManage/lookCS.jsp" target="main">售后管理</a>
+            <a href="http://localhost:8088/eims/CSManage/lookCS.jsp" target="main">售后管理</a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="http://localhost:8080/eims/productManage/lookProduct.jsp" target="main">产品管理</a>
+            <a href="http://localhost:8088/eims/productManage/lookProduct.jsp" target="main">产品管理</a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="http://localhost:8080/eims/staffManage/lookStaff.jsp" target="main">员工管理</a>
+            <a href="http://localhost:8088/eims/staffManage/lookStaff.jsp" target="main">员工管理</a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="http://localhost:8080/eims/login.jsp" target="_parent">退出系统</a>
+            <a href="http://localhost:8088/eims/login.jsp" target="_parent">退出系统</a>
         </td>
     </tr>
 </table>

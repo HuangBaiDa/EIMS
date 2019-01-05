@@ -10,7 +10,7 @@
   <head>
     <title>企业信息管理系统————登录页面</title>
   </head>
-  <body background="img/login.JPG">
+  <body style="background:url('img/login.JPG') no-repeat">
   <br><br><br><br><br><br>
   <br><br><br><br><br><br>
   <center>
